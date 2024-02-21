@@ -1,8 +1,8 @@
 ## DARK XPLOITER TOOLS
-Change the appearance of Termux to be like Linux simply
+UPDATES OF OTHER PREMIUM HACKING TOOLS
 
 ### SCREENSHOT
-<img src="https://raw.githubusercontent.com/ShadowXploit/tampilan/main/Screenshot_2024-02-16-19-54-51-91.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-02-21-23-48-18-66.jpg">
 
 ### INSTALLATION
 
