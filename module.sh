@@ -84,6 +84,6 @@ pip install datetime
 pip2 install datetime
 pip install useragent
 pip install pyfiglet
-pip3 install instaloader
+pip3 install --upgrade instaloader
 echo -e "\u001b[32mDone installing pip!"
 
