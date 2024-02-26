@@ -1,4 +1,4 @@
-echo "Chcking Package..."
+echo "Checking Package..."
 sleep 1
 bin=$PREFIX/bin
 dir=$(pwd)
