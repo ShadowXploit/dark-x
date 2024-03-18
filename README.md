@@ -11,7 +11,7 @@ UPDATES OF OTHER PREMIUM HACKING TOOLS
 
 * `apt upgrade`
 
-* `pkg install git -y`
+* `apt install git -y`
 
 * `git clone http://github.com/ShadowXploit/dark-x`
 
