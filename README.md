@@ -1,24 +1,13 @@
-## DARK XPLOITER TOOLS
-UPDATES OF OTHER PREMIUM HACKING TOOLS
+# Instalasi
 
-### SCREENSHOT
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-11-07-17-13-51.jpg">
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-02-13-52-59-16.jpg">
+Clone repository ini, lalu jalankan command `npm install`.
 
-### INSTALLATION
+# Execution
 
-* `apt update`
+Jalankan program dengan command node `app.js`
 
-* `apt upgrade`
+# Fitur
 
-* `apt install git -y`
-
-* `git clone http://github.com/ShadowXploit/dark-x`
-
-* `cd dark-x`
-
-* `bash module.sh`
-
-### RUN
-
-* `python bot.py`
+- Counter attack (sp4m) API telegram
+- Bikin list API telegram yang mau dijadikan target dalam file `.txt`
+- Send request ke multiple API secara bersamaan.
