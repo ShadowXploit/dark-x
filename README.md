@@ -5,6 +5,8 @@ All in one hacking tools from Dark Xploiter Team
 - initial view
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-25-17-01-50-87.jpg">
 - style in termux
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-02-13-52-59-16.jpg">
+
 
 ### Instalation
 
@@ -16,6 +18,7 @@ All in one hacking tools from Dark Xploiter Team
 ### Execution
 
 * `python bot.py`
+
 
 ### Fitur
 - Dump database web
