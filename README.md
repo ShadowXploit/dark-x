@@ -2,9 +2,9 @@
 All in one hacking tools from Dark Xploiter Team
 
 ### ScreenShot
-
-<img src="https://raw.githubusercontent.com/nfs-tech-bd/BASH-ENC/main/Screenshot_2021-04-29-09-50-01-332_com.termux.png">
-
+- initial view
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-25-17-01-50-87.jpg">
+- style in termux
 
 ### Instalation
 
