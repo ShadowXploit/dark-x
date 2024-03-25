@@ -15,7 +15,7 @@ All in one hacking tools from Dark Xploiter Team
 
 ### Execution
 
-`python bot.py`
+* `python bot.py`
 
 ### Fitur
 - Dump database web
