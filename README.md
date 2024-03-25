@@ -9,18 +9,16 @@ All in one hacking tools from Dark Xploiter Team
 
 
 ### Instalation
-
 * `git clone https://github.com/ShadowXploit/dark-x`
 * `cd dark-x`
 * `bash module.sh`
 
 
 ### Execution
-
 * `python bot.py`
 
 
-### Fitur
+### Futures
 - Dump database web
 - Dump social media accounts in web
 - Osint instagram with username
