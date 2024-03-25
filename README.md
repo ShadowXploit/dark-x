@@ -1,13 +1,10 @@
-# Instalation
+# Instalasi
 
-`git clone https://github.com/ShadowXploit/dark-x`\n
-`cd dark-x`\n
-`bash module.sh`
-
+Clone repository ini, lalu jalankan command `npm install`.
 
 # Execution
 
-`python bot.py`
+Jalankan program dengan command node `app.js`
 
 # Fitur
 
