@@ -106,7 +106,7 @@ user_agents = ['Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KH
 def testapikey():
     global api_key
     fip = '192.154.4.5'
-    api_key = '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'
+    api_key = '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'
     url = "https://api.openai.com/v1/chat/completions"
     head = {
         "Content-Type": "application/json",
@@ -130,7 +130,7 @@ def testapikey():
         api_key = api_key.replace(api_key, i)
     else:
         print('Your Api Key Is Valid, Enjoy!.')
-        api_key = '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'
+        api_key = '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'
     return api_key
 api_key = testapikey()
 print('')
