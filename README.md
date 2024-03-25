@@ -2,9 +2,9 @@
 All in one hacking tools from Dark Xploiter Team
 
 ### ScreenShot
-- initial view
+- Initial View
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-25-17-01-50-87.jpg">
-- style in termux
+- Style
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-02-13-52-59-16.jpg">
 
 
