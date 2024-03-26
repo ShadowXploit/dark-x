@@ -4,5 +4,4 @@ datetime
 useragent
 pyfiglet
 instaloader
-pytube
 bs4
