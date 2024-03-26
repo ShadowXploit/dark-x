@@ -1,5 +1,6 @@
 apt update && apt upgrade -y
 apt install python -y
+apt install python2 -y
 apt install nodejs -y
 apt install bash -y
 apt install curl -y
