@@ -2,7 +2,7 @@
 All in one hacking tools from Dark Xploiter Team
 
 ### ScreenShot
-- Initial View
+- Front view
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-25-17-01-50-87.jpg">
 - Style
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-02-13-52-59-16.jpg">
@@ -23,7 +23,7 @@ All in one hacking tools from Dark Xploiter Team
 - Dump social media accounts in web
 - Osint instagram with username
 - Osint IP address
-- ShadowGPT AI (brother WormGPT)
+- Worm GPT AI
 - Change terminal style (for termux)
 - Bruteforce zip password using wordlist of numbers
-- Counter attack (spam) API telegram
+- Spam scammer undangan APK with API telegram
