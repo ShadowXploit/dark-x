@@ -2,9 +2,9 @@
 All in one hacking tools from Dark Xploiter Team
 
 ### ScreenShot
-- Front view
+Preview
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot 1.jpg">
-- Style
+Style
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot.jpg">
 
 
