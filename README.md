@@ -9,6 +9,7 @@ Style in termux
 
 
 ### Instalation
+* `apt install git`
 * `git clone https://github.com/ShadowXploit/dark-x`
 * `cd dark-x`
 * `bash module.sh`
@@ -23,7 +24,7 @@ Style in termux
 - Dump social media accounts in web
 - Osint instagram with username
 - Osint IP address
-- Worm GPT AI
+- Shadow GPT AI
 - Change terminal style (for termux)
 - Bruteforce zip password using wordlist of numbers
 - Spam scammer undangan APK with API telegram
