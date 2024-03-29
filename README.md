@@ -4,7 +4,7 @@ All in one hacking tools from Dark Xploiter Team
 ### ScreenShot
 Preview
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot 1.jpg">
-Style
+Style in termux
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot.jpg">
 
 
@@ -27,3 +27,4 @@ Style
 - Change terminal style (for termux)
 - Bruteforce zip password using wordlist of numbers
 - Spam scammer undangan APK with API telegram
+- CCTV hijacker
