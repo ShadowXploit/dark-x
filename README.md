@@ -19,7 +19,7 @@ Style in termux
 * `python bot.py`
 
 
-### Futures
+### Features
 - Dump database web
 - Dump social media accounts in web
 - Osint instagram with username
