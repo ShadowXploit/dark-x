@@ -3,7 +3,7 @@ All in one hacking tools from Dark Xploiter Team
 
 ### ScreenShot
 Preview
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot1.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-30-08-13-33-60.jpg">
 Style in termux
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot.jpg">
 
@@ -20,12 +20,12 @@ Style in termux
 
 
 ### Features
-- Dump database web
-- Dump social media accounts in web
+- Finder file database on the web
+- Finder social media accounts on the web
 - Osint instagram with username
 - Osint IP address
 - Shadow GPT AI
 - Change terminal style (for termux)
-- Bruteforce zip password using wordlist of numbers
-- Spam scammer undangan APK with API telegram
+- Bruteforce zip password using number wordlist
+- Spam scammer undangan APK with telegram API
 - CCTV hijacker
