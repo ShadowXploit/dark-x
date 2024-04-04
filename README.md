@@ -1,5 +1,5 @@
 ## DARK XPLOITER TOOLS
-All in one hacking tools from Dark Xploiter Team
+ALL IN ONE HACKING TOOLS FROM DARK XPLOITER TEAM
 
 ### ScreenShot
 Preview
@@ -20,6 +20,7 @@ Style in termux
 
 
 ### Features
+- DDoS attack layer 7 method
 - Finder file database on the web
 - Finder social media accounts on the web
 - Osint instagram with username
