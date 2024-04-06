@@ -3,7 +3,8 @@
 <details open>
   <summary><strong> Description </strong></summary>
 
-![owlsint-removebg-preview](https://github.com/IccTeam/Owl-sint/assets/143928335/14dfe6f1-27d7-40d4-a73c-f77e95c2394d)
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x//main/.data/1712382612559.png">
+
  <h2><img src="https://img.shields.io/badge/Author-./Shadow Xploit-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-DarkX-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.4-9cf"/>
