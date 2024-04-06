@@ -1,16 +1,25 @@
 <h1 align="center">Dark Xploiter Tools</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
+<details open>
+  <summary><strong> Description </strong></summary>
+
+![owlsint-removebg-preview](https://github.com/IccTeam/Owl-sint/assets/143928335/14dfe6f1-27d7-40d4-a73c-f77e95c2394d)
+ <h2><img src="https://img.shields.io/badge/Author-./Shadow Xploit-blueviolet"/>
+<img src="https://img.shields.io/badge/Tool-DarkX-red"/>
+<img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.4-9cf"/>
+<img src="https://img.shields.io/github/issues/ShadowXploit/dark-x.svg?color=%23ff0000"/> <img
+<img src="https://img.shields.io/github/forks/ShadowXploit/dark-x.svg?color=%23ffff00"/> <img
+<img src="https://img.shields.io/github/stars/ShadowXploit/dark-x.svg?color=%23ff3300"/> <img
+<img src="https://img.shields.io/github/license/ShadowXploit/dark-x.svg?color=%230000ff"/> <img
+</center>
+  </h2>
+  <hr>
+
 <p align="center">
-<a href="#"><img alt="dark-x Forks" src="https://img.shields.io/github/forks/ShadowXploit/dark-x?style=for-the-badge"></a>
-<a href="#"><img alt="dark-x last commit (main)" src="https://img.shields.io/github/last-commit/ShadowXploit/dark-x/main?color=green&style=for-the-badge"></a>
-<a href="#"><img alt="dark-x Repo stars" src="https://img.shields.io/github/stars/ShadowXploit/dark-x?style=for-the-badge&color=yellow"></a>
-<a href="#"><img alt="dark-x License" src="https://img.shields.io/github/license/ShadowXploit/dark-x?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/ShadowXploit/dark-x/issues"><img alt="ShadowXploit issues" src="https://img.shields.io/github/issues/ShadowXploit/dark-x?color=purple&style=for-the-badge"></a>
+TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOITER OFC.
+TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO9, DCM X 505, & MALVIN VALERIAN.
 
-  TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOITER OFC.
-
-  TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO9, DCM X 505, & MALVIN VALERIAN.
-
+  </details>
 
 ### ScreenShot
 Preview
