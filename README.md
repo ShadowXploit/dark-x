@@ -1,7 +1,16 @@
-## DARK XPLOITER TOOLS
+<h1 align="center">Dark Xploiter Tools</h1>
+<em><h5 align="center">(Programming Language - Python 3)</h5></em>
+<p align="center">
+<a href="#"><img alt="dark-x Forks" src="https://img.shields.io/github/forks/ShadowXploit/dark-x?style=for-the-badge"></a>
+<a href="#"><img alt="dark-x last commit (main)" src="https://img.shields.io/github/last-commit/ShadowXploit/dark-x/main?color=green&style=for-the-badge"></a>
+<a href="#"><img alt="dark-x Repo stars" src="https://img.shields.io/github/stars/ShadowXploit/dark-x?style=for-the-badge&color=yellow"></a>
+<a href="#"><img alt="dark-x License" src="https://img.shields.io/github/license/ShadowXploit/dark-x?color=orange&style=for-the-badge"></a>
+<a href="https://github.com/ShadowXploit/dark-x/issues"><img alt="ShadowXploit issues" src="https://img.shields.io/github/issues/ShadowXploit/dark-x?color=purple&style=for-the-badge"></a>
+
   TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOITER OFC.
 
   TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO9, DCM X 505, & MALVIN VALERIAN.
+
 
 ### ScreenShot
 Preview
