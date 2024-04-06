@@ -20,6 +20,7 @@
 ### Preview
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-30-08-13-33-60.jpg">
 <p align="center">
+
 ### Linux Banner (For Termux)
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot.jpg">
 
