@@ -1,9 +1,7 @@
-<h1 align="center">Dark Xploiter Tools</h1>
-<em><h5 align="center">(Programming Language - Python 3)</h5></em>
-<details open>
-  <summary><strong> Description </strong></summary>
+<h2 align="center">Dark Xploiter Tools</h2>
+<em><h4 align="center">(Programming Language - Python 3)</h4></em>
 
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x//main/.data/1712382612559.png">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x//main/.data/IMG_20240406_130021.jpg">
 
  <h2><img src="https://img.shields.io/badge/Author-./Shadow Xploit-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-DarkX-red"/>
@@ -16,20 +14,16 @@
   </h2>
   <hr>
 
-<p align="center">
-TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOITER OFC.
-TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO9, DCM X 505, & MALVIN VALERIAN.
 
-  </details>
+<em><h5 align="center">TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOITER OFC. TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO9, DCM X 505, & MALVIN VALERIAN.</h5></em>
 
-### ScreenShot
-Preview
+### Preview
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-30-08-13-33-60.jpg">
-Style Linux Banner (For Termux)
+<p align="center">
+### Linux Banner (For Termux)
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot.jpg">
 
-
-### Instalation
+### Installation
     apt install git
     git clone https://github.com/ShadowXploit/dark-x
     cd dark-x
