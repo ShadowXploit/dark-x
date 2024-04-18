@@ -1,1 +1,1 @@
-https://api.telegram.org/bot6857276354:AAH98ElI1j81M3c3KlcxoqIMzTX6H_EAIFA/sendMessage?parse_mode=markdown&chat_id=6310342995&text=MAUNIPU?
+https://api.telegram.org/bot6857276354:AAH98ElI1j81M3c3KlcxoqIMzTX6H_EAIFA/sendMessage?parse_mode=markdown&chat_id=6310342995&text=MAU NIPU DEK

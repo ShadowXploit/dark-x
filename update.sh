@@ -5,4 +5,4 @@ git clone https://github.com/ShadowXploit/dark-x
 mv -f node_modules dark-x
 cd dark-x
 bash module.sh
-python bot.py
+python3 bot.py
