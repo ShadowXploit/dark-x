@@ -17,7 +17,7 @@
 
 <em><h5 align="center">TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOITER | OFC</h5></em>
 
-<em><h5 align="center">TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO, DCM X 505, & MALVIN VALERIAN</h5></em>
+<em><h5 align="center">TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO, & MALVIN VALERIAN</h5></em>
 
 ### Preview
 <img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-03-30-08-13-33-60.jpg">
@@ -34,7 +34,7 @@
 
 
 ### Execution
-    python bot.py
+    python3 bot.py
 
 ### Support
 - Termux All Version
