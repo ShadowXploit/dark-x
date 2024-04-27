@@ -8,6 +8,5 @@ apt install nano -y
 apt install cowsay -y
 apt install toilet -y
 apt install figlet -y
-#apt install golang -y
 npm install
 pip3 install -r requirements.txt
