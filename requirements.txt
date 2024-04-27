@@ -16,3 +16,4 @@ beautifulsoup4
 rich
 inquirer
 fake_useragent
+pystyle
