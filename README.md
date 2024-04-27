@@ -43,21 +43,22 @@
 
 ### Features
 - DDoS attack layer 7 method
-  (HTTP V1, V2, V3(proxy), Mix, CF Bypass)
-- Free VPS server
+  (HTTPv1, HTTPv2, HTTPv3(proxy), Mix, TLSv1, TLSv2)
+- Free VPS Server
 - Free RDP Kali Linux server
 - Free Private Panel Server
-- Finder file database on the web
-- Finder social media accounts on the web
-- Osint instagram with username
-- Track IP address
-- Worm GPT AI terminal
-- Worm GPT AI web
-- Change terminal style (for termux)
-- Bruteforce zip password using number wordlist
+- Finder File Database On The Web
+- Finder Social Media Accounts On The Web
+- Osint Instagram With Username
+- Track IP Address
+- Worm GPT AI Terminal
+- Worm GPT AI Web
+- Change Terminal Style (For Termux)
+- Bruteforce Zip Password Using Number Wordlist
 - Spam Brutal SMS & Whatsapp
-- Spam scammer undangan APK with telegram API
-- CCTV hijacker
-- Bot nulis online
-- Report tiktok
+- Spam Scammer Undangan APK With Telegram API
+- CCTV Hijacker
+- Bot Nulis Online
+- Report Tiktok
 - Python Obfuscate
+- Fake Email
