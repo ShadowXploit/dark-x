@@ -64,7 +64,7 @@ echo -e "\e[1;34m                                          .o"
 echo -e "\e[1;34m                                            c"
 echo -e "\e[1;34m                                            .'"
 echo -e "\e[1;34m                                             ."
-PS1='[1;34m\]┌──(\[[1;31m\]root㉿localhost\[[1;34m\])-[\[[1;37m\]\w\[[1;34m\]]
+PS1='[1;34m\]┌──(\[[1;31m\]root㉿localhost\[[1;34m\])-[\[[0;37m\]\w\[[1;34m\]]
 \[[1;34m\]└─\[[1;31m\]#\[[0;37m\] '
 
 #Yg atas boleh di recode sendiri
