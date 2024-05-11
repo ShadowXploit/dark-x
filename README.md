@@ -20,7 +20,7 @@
 >TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO, MR SLAYERGOJO, BILLZ LIEBERT, & MALVIN VALERIAN
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-04-22-14-31-33-73.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-05-11-19-35-20-67.jpg">
 <p align="center">
 
 ### Linux Banner (For Termux)
