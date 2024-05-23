@@ -17,3 +17,4 @@ rich
 inquirer
 fake_useragent
 pystyle
+scapy
