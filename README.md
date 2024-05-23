@@ -20,7 +20,7 @@
 >TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO, MR SLAYERGOJO, BILLZ LIEBERT, & MALVIN VALERIAN
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-05-11-19-35-20-67.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-05-23-21-02-44-71.jpg">
 <p align="center">
 
 ### Linux Banner (For Termux)
@@ -42,8 +42,9 @@
 - Termux
 
 ### Features
-- DDoS attack layer 7 method
+- DDoS Attack Layer 7 Method
   (HTTPv1, HTTPv2, HTTPv3(proxy), Mix, TLSv1, TLSv2)
+- DDoS Attack Layer 4 Method
 - Free VPS Server
 - Free RDP Kali Linux server
 - Free Private Panel Server
@@ -51,13 +52,14 @@
 - Finder Social Media Accounts On The Web
 - Osint Instagram With Username
 - Track IP Address
-- Worm GPT AI Terminal
-- Worm GPT AI Web
+- Chat AI Terminal
 - Change Terminal Style (For Termux)
-- Bruteforce Zip Password Using Number Wordlist
+- Bruteforce Zip Password
 - Spam Brutal SMS & Whatsapp
+- Spam Brutal SMS, Wa & Email
 - Spam Scammer Undangan APK With Telegram API
-- CCTV Hijacker
+- CCTV Hijacker V1
+- CCTV Hijacker V2
 - Bot Nulis Online
 - Report Tiktok
 - Python Obfuscate
