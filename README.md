@@ -20,7 +20,7 @@
 >TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, MR SANZZ, GREXX DUMP, ASIO, MR SLAYERGOJO, BILLZ LIEBERT, & MALVIN VALERIAN
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-05-23-21-02-44-71.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-06-03-17-28-42-33.jpg">
 <p align="center">
 
 ### Linux Banner (For Termux)
@@ -57,6 +57,7 @@
 - Bruteforce Zip Password
 - Spam Brutal SMS & Whatsapp
 - Spam Brutal SMS, Wa & Email
+- Spam Call Unlimited
 - Spam Scammer Undangan APK With Telegram API
 - CCTV Hijacker V1
 - CCTV Hijacker V2
