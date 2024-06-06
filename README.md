@@ -20,18 +20,14 @@ TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOIT
 TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, GREXX DUMP, MR SANZZ, GREXX DUMP, ASIO, MR SLAYERGOJO, BILLZ LIEBERT, MISHA KORZHIK & MALVIN VALERIAN
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-06-03-17-28-42-33.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-06-06-19-17-46-47.jpg">
 <p align="center">
-
-### Linux Banner (For Termux)
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot.jpg">
 
 ### Installation
     apt install git
     git clone https://github.com/ShadowXploit/dark-x
     cd dark-x
     bash module.sh
-
 
 ### Execution
     python3 bot.py
@@ -52,13 +48,15 @@ TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4L
 - Finder Social Media Accounts On The Web
 - Osint Instagram With Username
 - Track IP Address
-- Chat AI Terminal
+- Chat AI Terminal Unlimited
 - Change Terminal Style (For Termux)
 - Bruteforce Zip Password
 - Spam Brutal SMS & Whatsapp
 - Spam Brutal SMS, Wa & Email
-- Spam Call Unlimited
-- Spam Scammer Undangan APK With Telegram API
+- Spam Call Unlimited All Country
+- Spam Call Manual Unlimited
+- Spam Sender Email
+- Spammer Telegram API
 - CCTV Hijacker V1
 - CCTV Hijacker V2
 - Bot Nulis Online
