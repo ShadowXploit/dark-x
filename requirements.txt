@@ -18,3 +18,5 @@ inquirer
 fake_useragent
 pystyle
 scapy
+asyncio
+truecallerpy
