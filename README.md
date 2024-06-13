@@ -63,11 +63,3 @@ TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4L
 23. Report TikTok
 24. Enkripsi Python (Obfuscater)
 25. Pembuat Email Palsu
- 
-=>  Total 30 fitur
-=>  Ada fitur yg cacat? Gw delete fiturnya👍
-=>  Takut ke rip? Admin full identitas
-=>  Dapat Full Update
-=>  Sangat cocok buat OpIsrael, Amerika, India, dll
-=>  Testi banyak
-=>  Bebas cek fitur
