@@ -38,28 +38,36 @@ TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4L
 - Termux
 
 ### Features
-- DDoS Attack Layer 7 Method
-  (HTTPv1, HTTPv2, HTTPv3(proxy), Mix, TLSv1, TLSv2)
-- DDoS Attack Layer 4 Method
-- Free VPS Server
-- Free RDP Kali Linux server
-- Free Private Panel Server
-- Finder File Database On The Web
-- Finder Social Media Accounts On The Web
-- Osint Instagram With Username
-- Track IP Address
-- Chat AI Terminal Unlimited
-- Change Terminal Style (For Termux)
-- Bruteforce Zip Password
-- Spam Brutal SMS & Whatsapp
-- Spam Brutal SMS, Wa & Email
-- Spam Call Unlimited All Country
-- Spam Call Manual Unlimited
-- Spam Sender Email
-- Spammer Telegram API
-- CCTV Hijacker V1
-- CCTV Hijacker V2
-- Bot Nulis Online
-- Report Tiktok
-- Python Obfuscate
-- Fake Email
+01. DDoS Attack L7 Method (HTTPv1,v2,v3,MIX,TLSv1,v2)
+02. DDoS Attack L4 Method
+03. VPS 2CPU RAM 4GB
+04. RDP Kali Linux Server
+05. Pencari File Tersembunyi Dari Web
+06. Pengikis Akun Dari Web
+07. Mengambil Informasi Akun IG
+08. Track IP/Domain
+09. Chat AI Terminal Unlimited
+10. Ubah & Backup Tampilan Termux
+11. Bruteforce Password Zip
+12. Spam Brutal SMS & WhatsApp
+13. Spam Brutal SMS, WA, & Email
+14. Spam Call Unlimited (New)
+15. Spam Call All Country (New)
+16. Spammer API Telegram
+17. Spam Sender Email (New)
+18. Pencari CCTV Daerah
+19. Pencari CCTV Negara
+20. Pembuat Script Deface
+21. Pembuat Ransomware Termux
+22. Bot Nulis Online
+23. Report TikTok
+24. Enkripsi Python (Obfuscater)
+25. Pembuat Email Palsu
+ 
+=>  Total 30 fitur
+=>  Ada fitur yg cacat? Gw delete fiturnya👍
+=>  Takut ke rip? Admin full identitas
+=>  Dapat Full Update
+=>  Sangat cocok buat OpIsrael, Amerika, India, dll
+=>  Testi banyak
+=>  Bebas cek fitur
