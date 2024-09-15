@@ -1,8 +1,6 @@
 <h2 align="center">Dark Xploiter Tools</h2>
 <em><h4 align="center">(Programming Language - Python 3)</h4></em>
 
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x//main/Screenshot.jpg">
-
  <h2><img src="https://img.shields.io/badge/Author-./Shadow Xploit-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-DarkX-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.4-9cf"/>
@@ -20,7 +18,8 @@ TOOLS INI DISUSUN DAN DIKEMBANGKAN OLEH SHADOW XPLOIT DARI KOMUNITAS DARK XPLOIT
 TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4LD, MR OWLBIRD05, GREXX DUMP, MR SANZZ, GREXX DUMP, ASIO, MR SLAYERGOJO, BILLZ LIEBERT, MISHA KORZHIK & MALVIN VALERIAN
 
 ### Preview
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/Screenshot_2024-06-06-19-17-46-47.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x/main/IMG_20240916_064122.jpg">
+
 <p align="center">
 
 ### Installation
