@@ -38,28 +38,41 @@ TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4L
 - Termux
 
 ### Features
-01. DDoS Attack L7 Method (HTTPv1,v2,v3,MIX,TLSv1,v2)
-02. DDoS Attack L4 Method
-03. VPS 2CPU RAM 4GB
-04. RDP Kali Linux Server
-05. Pencari File Tersembunyi Dari Web
-06. Pengikis Akun Dari Web
-07. Mengambil Informasi Akun IG
-08. Track IP/Domain
-09. Chat AI Terminal Unlimited
-10. Ubah & Backup Tampilan Termux
-11. Bruteforce Password Zip
-12. Spam Brutal SMS & WhatsApp
-13. Spam Brutal SMS, WA, & Email
-14. Spam Call Unlimited (New)
-15. Spam Call All Country (New)
-16. Spammer API Telegram
-17. Spam Sender Email (New)
-18. Pencari CCTV Daerah
-19. Pencari CCTV Negara
-20. Pembuat Script Deface
-21. Pembuat Ransomware Termux
-22. Bot Nulis Online
-23. Report TikTok
-24. Enkripsi Python (Obfuscater)
-25. Pembuat Email Palsu
+ 01. DDoS L7 Method (HTTPv1,v2,v3,Mix,CfBypass,TLSv1,v2,v3)
+ 02. WIFI Stresser
+ 03. VPS 2CPU RAM 4GB
+ 04. RDP Kali Linux Server
+ 05. Pencari File Tersembunyi Dari Web
+ 06. Pengikis Akun Dari Web
+ 07. IG Stalker
+ 08. IP/Domain Information
+ 09. Chat AI Terminal Unlimited
+ 10. Ubah & Reset Tampilan Termux
+ 11. Bruteforce Password Zip 
+ 12. Spam SMS & WhatsApp V1
+ 13. Spam SMS & WhatsApp V2
+ 14. Prank Call 
+ 15. Spam Sender Email
+ 16. Spam Bug API Telegram
+ 17. Spam Notif Pairing (New)
+ 18. Bot WhatsApp Bug Menu
+ 19. Pencari CCTV Daerah
+ 20. Pencari CCTV Negara
+ 21. Pembuat Script Deface Tanpa Coding
+ 22. Prediksi Cuaca
+ 23. Pembuat Ransomware Termux
+ 25. Python Obfuscater
+ 26. Youtube Mp3 Downloader
+ 27. Bot Nulis Online
+ 28. Pembuat Email Palsu
+ 29. Convert Teks Ke Suara
+ 30. Bot WhatsApp AI Menu (New)
+ 
+ =>  Harga terjangkau
+ =>  Takut ke rip? Admin full identitas
+ =>  Dapat Full Update
+ =>  Sangat cocok buat OpIsrael, OpAmerika, OpIndia, dll
+ =>  Testi banyakk
+ =>  Bebas cek fitur sebelum pembelian
+ =>  Kualitas? Kalo jelek star-nya dikit👇
+     https://github.com/ShadowXploit/dark-x
