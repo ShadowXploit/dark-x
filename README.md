@@ -1,7 +1,7 @@
 <h2 align="center">Dark Xploiter Tools</h2>
 <em><h4 align="center">(Programming Language - Python 3)</h4></em>
 
-<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x//main/.data/IMG_20240406_130021.jpg">
+<img src="https://raw.githubusercontent.com/ShadowXploit/dark-x//main/Screenshot.jpg">
 
  <h2><img src="https://img.shields.io/badge/Author-./Shadow Xploit-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-DarkX-red"/>
