@@ -33,7 +33,6 @@ TERIMAKASIH KEPADA H-0071 TECHNO.HACXTIVIST, B-9881 CYBER.HACKTIVIST, M3N0SD0N4L
 
 ### Support
 - Kali Linux/Net Hunter
-- Windows
 - Termux
 
 ### Features
