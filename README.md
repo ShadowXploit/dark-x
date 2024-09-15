@@ -3,7 +3,7 @@
 
  <h2><img src="https://img.shields.io/badge/Author-./Shadow Xploit-blueviolet"/>
 <img src="https://img.shields.io/badge/Tool-DarkX-red"/>
-<img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.4-9cf"/>
+<img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-3.7-9cf"/>
 <img src="https://img.shields.io/github/issues/ShadowXploit/dark-x.svg?color=%23ff0000"/> <img
 <img src="https://img.shields.io/github/forks/ShadowXploit/dark-x.svg?color=%23ffff00"/> <img
 <img src="https://img.shields.io/github/stars/ShadowXploit/dark-x.svg?color=%23ff3300"/> <img
